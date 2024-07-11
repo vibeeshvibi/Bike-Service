@@ -53,18 +53,14 @@ https://github.com/vibeeshvibi/Bike-Service
 ```bash
 cd Front-End
 npm install
+npm start
 ```
 ```bash
 cd Server
 npm install
-```
-
-#### 3. Start the both, Server and Front-End
-
-```bash
-npm start
 nodemon server.js
 ```
+
 
 ## Sample Data
 Sample Data is in the Model Page
